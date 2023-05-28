@@ -1,0 +1,35 @@
+{
+  "server-component": {
+    "welcome": "Welcome to the server component"
+  },
+  "ui": {
+    "header": {
+      "logo": "Tatar Typing",
+      "about": "About",
+      "alphabet": "Alphabet",
+      "converter": "Converter",
+      "trainer": "Trainer"
+    }
+  },
+  "pages": {
+    "alphabet": {
+      "title": "Alphabet",
+      "reference_one": "Use \"v\" for loanwords and \"w\" for Tatar words.",
+      "reference_two": "Use \"g\" and \"k\" for hard sounds and \"ğ\" and \"q\" for soft ones."
+    },
+    "converter": {
+      "title": "Converter",
+      "type_cyrillic": "Type in Cyrillic...",
+      "type_latin": "Type in Latin..."
+    },
+    "trainer": {
+      "title": "Trainer",
+      "subtitle": "Examples",
+      "info": "Here you can practice reading the Latin script of the Tatar language. Click on the arrows at the bottom to get the next letter. Please note that the provided examples are automatically generated and may contain errors. For a better understanding, cross-reference with existing materials on the Internet. Enjoy your learning!"
+    },
+    "about": {
+      "title": "About",
+      "info": "<p>The <strong>Tatar Typing</strong> project aims to help users transition from the Cyrillic to the Latin script for the Tatar language. The project's goal is to facilitate communication with other countries and remove language barriers, as well as provide an opportunity to break free from the cultural and historical association with Cyrillic, which is considered to have been imposed by Russia.</p><p>Switching to the Latin script allows for improved connectivity and interaction with the international community, as the Latin script is widely used in many countries and serves as the standard for numerous languages. This facilitates information exchange, correspondence, and comprehension of Tatar language texts for users accustomed to the Latin script.</p><p><strong>Tatar Typing</strong> provides a simple and convenient way to translate text from Cyrillic to Latin, enabling users to freely express themselves in the Tatar language and utilize a more user-friendly and globally recognized script. This allows for the preservation of linguistic self-identity and fosters more effective interaction in a global context.</p>"
+    }
+  }
+}

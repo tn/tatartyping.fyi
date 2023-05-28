@@ -1,0 +1,5 @@
+.content p {
+  font-size: var(--font-size-regular);
+  line-height: var(--line-height-regular);
+  margin-bottom: 1.5rem;
+}

@@ -1,0 +1,35 @@
+{
+  "server-component": {
+    "welcome": "Рэхим итегез"
+  },
+  "ui": {
+    "header": {
+      "logo": "Tatar Typing",
+      "about": "Proekt turında",
+      "alphabet": "Älifba",
+      "converter": "Konverter",
+      "trainer": "Trenajor"
+    }
+  },
+  "pages": {
+    "alphabet": {
+      "title": "Älifba",
+      "reference_one": "Alıngan süzlär öçen \"v\" häm tatar süzläre öçen \"w\" kullanıgız.",
+      "reference_two": "Katı tawışlar öçen \"g\" häm \"k\" kullanıgız, yomşak tawışlar öçen \"ğ\" häm \"q\" kullanıgız."
+    },
+    "converter": {
+      "title": "Konverter",
+      "type_cyrillic": "Kirillicä...",
+      "type_latin": "Latınca..."
+    },
+    "trainer": {
+      "title": "Trenajor",
+      "subtitle": "Misallar",
+      "info": "Monda sez tatar teleneñ latin skriptın ukırga öyränä alasız. Qiläse härefne alu öçen astagı uklarga basıgız. Zinhar, iğtibar itegez, birelgän misallar avtomatik räweştä üzgärtelä häm hatalar bulırga mömqin. Iñ yahşı añlau öçen, Internettagı materiallarnı tiqşeregez. Bähetle uku!"
+    },
+    "about": {
+      "title": "Proekt turında",
+      "info": "<p><strong>Tatar Typing</strong> proektı kullanuçılarga kirill telennän latin yazu sistemasına tatar tele öçen qüçenergä yardäm itä. Proektnıñ maksatı - başka illär belän aralaşunı ciñeläytü häm teldäge qirtälärne beterü, şulay uk ​​Rossiya tarafınnan kertelğän Kirill älifbası belän mädäni häm tarihi bäyläneştän arınu mömkinlege.</p><p>Latin älifbasına qüçü halıkara cämägatçelek belän yahşırak aralaşırga häm aralaşırga mömkinlek birä, çönki latin yazu sisteması küp illärdä kiñ kullanıla häm küp tellär öçen standart. Bu latin yazu sistemasına künekkän kullanuçılar öçen mäglümat almaşu, korrespondentsiya häm tatar telendäge tekstlarnı añlaunı ciñeläytä.</p><p><strong>Tatar Typing</strong> gadi häm uñaylı yul birä. Tekstnı kirill telennän latin telenä tärcemä itü, kullanuçılarga üzlären tatar telendä irken beldererğä häm uñaylırak häm halıkara däräcädä kabul itelgän yazu sistemasın kullanırga mömkinlek birä. Bu lingvistik üzbilgelänüne saklarga häm global kontekstta tagın da effektiv bäyläneşne başkarırga mömkinlek birä.</p>"
+    }
+  }
+}

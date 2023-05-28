@@ -1,0 +1,200 @@
+{
+  "а": {
+    "cyrillic": "а",
+    "latin": "a",
+    "transcription": "a"
+  },
+  "ә": {
+    "cyrillic": "ә",
+    "latin": "ä",
+    "transcription": "æ"
+  },
+  "б": {
+    "cyrillic": "б",
+    "latin": "b",
+    "transcription": "b"
+  },
+  "в": {
+    "cyrillic": "в",
+    "latin": ["w", "v"],
+    "transcription": "v",
+    "reference": "*"
+  },
+  "г": {
+    "cyrillic": "г",
+    "latin": ["g", "ğ"],
+    "transcription": "ɡ",
+    "reference": "**"
+  },
+  "д": {
+    "cyrillic": "д",
+    "latin": "d",
+    "transcription": "d"
+  },
+  "е": {
+    "cyrillic": "е",
+    "latin": "e",
+    "transcription": "e"
+  },
+  "ё": {
+    "cyrillic": "ё",
+    "latin": "yo",
+    "transcription": "jo"
+  },
+  "ж": {
+    "cyrillic": "ж",
+    "latin": "j",
+    "transcription": "ʒ"
+  },
+  "җ": {
+    "cyrillic": "җ",
+    "latin": "c",
+    "transcription": "ʒ"
+  },
+  "з": {
+    "cyrillic": "з",
+    "latin": "z",
+    "transcription": "z"
+  },
+  "и": {
+    "cyrillic": "и",
+    "latin": "i",
+    "transcription": "i"
+  },
+  "й": {
+    "cyrillic": "й",
+    "latin": "y",
+    "transcription": "j"
+  },
+  "к": {
+    "cyrillic": "к",
+    "latin": ["k", "q"],
+    "transcription": "k",
+    "reference": "**"
+  },
+  "л": {
+    "cyrillic": "л",
+    "latin": "l",
+    "transcription": "l"
+  },
+  "м": {
+    "cyrillic": "м",
+    "latin": "m",
+    "transcription": "m"
+  },
+  "н": {
+    "cyrillic": "н",
+    "latin": "n",
+    "transcription": "n"
+  },
+  "ң": {
+    "cyrillic": "ң",
+    "latin": "ñ",
+    "transcription": "ŋ"
+  },
+  "о": {
+    "cyrillic": "о",
+    "latin": "o",
+    "transcription": "o"
+  },
+  "ө": {
+    "cyrillic": "ө",
+    "latin": "ö",
+    "transcription": "ø"
+  },
+  "п": {
+    "cyrillic": "п",
+    "latin": "p",
+    "transcription": "p"
+  },
+  "р": {
+    "cyrillic": "р",
+    "latin": "r",
+    "transcription": "r"
+  },
+  "с": {
+    "cyrillic": "с",
+    "latin": "s",
+    "transcription": "s"
+  },
+  "т": {
+    "cyrillic": "т",
+    "latin": "t",
+    "transcription": "t"
+  },
+  "у": {
+    "cyrillic": "у",
+    "latin": "u",
+    "transcription": "u"
+  },
+  "ү": {
+    "cyrillic": "ү",
+    "latin": "ü",
+    "transcription": "y"
+  },
+  "ф": {
+    "cyrillic": "ф",
+    "latin": "f",
+    "transcription": "f"
+  },
+  "х": {
+    "cyrillic": "х",
+    "latin": "h",
+    "transcription": "h"
+  },
+  "һ": {
+    "cyrillic": "һ",
+    "latin": "h",
+    "transcription": "h"
+  },
+  "ц": {
+    "cyrillic": "ц",
+    "latin": "ts",
+    "transcription": "ts"
+  },
+  "ч": {
+    "cyrillic": "ч",
+    "latin": "ç",
+    "transcription": "tʃ"
+  },
+  "ш": {
+    "cyrillic": "ш",
+    "latin": "ş",
+    "transcription": "ʃ"
+  },
+  "щ": {
+    "cyrillic": "щ",
+    "latin": "şç",
+    "transcription": "ʃː"
+  },
+  "ъ": {
+    "cyrillic": "ъ",
+    "latin": "",
+    "transcription": ""
+  },
+  "ы": {
+    "cyrillic": "ы",
+    "latin": "ı",
+    "transcription": "ɯ"
+  },
+  "ь": {
+    "cyrillic": "ь",
+    "latin": "",
+    "transcription": ""
+  },
+  "э": {
+    "cyrillic": "э",
+    "latin": "e",
+    "transcription": "e"
+  },
+  "ю": {
+    "cyrillic": "ю",
+    "latin": "yu",
+    "transcription": "ju"
+  },
+  "я": {
+    "cyrillic": "я",
+    "latin": "ya",
+    "transcription": "ja"
+  }
+}
