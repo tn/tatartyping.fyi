@@ -12,6 +12,9 @@ const Footer: FC = () => (
         CC0 1.0
       </a>
     </p>
+    <p>
+      <a href="https://github.com/tn/tatartyping.fyi/issues/new" target="_blank" rel="noreferrer noopener">🐞</a>
+    </p>
   </footer>
 )
 
