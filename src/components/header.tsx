@@ -1,9 +1,9 @@
 import Link from 'next/link'
-import { FC, useCallback } from 'react'
+import { FC } from 'react'
 import { getDictionary } from '../../get-dictionary'
 import LocaleSwitcher from './locale-switcher'
 
-const Header: FC<{ lang: 'ru' | 'en' | 'tt' | 'ttlat' }> = async ({ lang }) => {
+const Header = async ({ lang }: { lang: 'en' | 'tt' | 'ru' | 'ttlat' }) => {
   const dictionary = await getDictionary(lang)
   const urlBuilder = (route: string) => {
     return `/${lang}/${route}`

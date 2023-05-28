@@ -1,10 +1,9 @@
-/* eslint-disable @next/next/no-img-element */
 import { FC } from 'react'
 
 const Footer: FC = () => (
   <footer className="text-center px-16 py-6 text-gray-500 text-sm mt-6">
     Tatar Typing &copy; {new Date().getFullYear()}
-    <p xmlnscc="http://creativecommons.org/ns#" xmlnsdct="http://purl.org/dc/terms/">
+    <p>
       <a property="dct:title" rel="cc:attributionURL" href="https://tatartyping.com">Tatar Typing</a>
       {' '}
       is marked with

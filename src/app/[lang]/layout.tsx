@@ -21,6 +21,7 @@ export default function RootLayout({
 }) {
   return (
     <>
+      {/* @ts-ignore */}
       <Header lang={params.lang as any} />
       <div className="px-16 py-9 max-lg:px-10 max-md:px-6 max-sm:px-3 max-sm:py-4">{children}</div>
       <Footer />

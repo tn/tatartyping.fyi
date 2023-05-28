@@ -2,17 +2,20 @@
   "а": {
     "cyrillic": "а",
     "latin": "a",
-    "transcription": "a"
+    "transcription": "a",
+    "reference": null
   },
   "ә": {
     "cyrillic": "ә",
     "latin": "ä",
-    "transcription": "æ"
+    "transcription": "æ",
+    "reference": null
   },
   "б": {
     "cyrillic": "б",
     "latin": "b",
-    "transcription": "b"
+    "transcription": "b",
+    "reference": null
   },
   "в": {
     "cyrillic": "в",
@@ -29,42 +32,50 @@
   "д": {
     "cyrillic": "д",
     "latin": "d",
-    "transcription": "d"
+    "transcription": "d",
+    "reference": null
   },
   "е": {
     "cyrillic": "е",
     "latin": "e",
-    "transcription": "e"
+    "transcription": "e",
+    "reference": null
   },
   "ё": {
     "cyrillic": "ё",
     "latin": "yo",
-    "transcription": "jo"
+    "transcription": "jo",
+    "reference": null
   },
   "ж": {
     "cyrillic": "ж",
     "latin": "j",
-    "transcription": "ʒ"
+    "transcription": "ʒ",
+    "reference": null
   },
   "җ": {
     "cyrillic": "җ",
     "latin": "c",
-    "transcription": "ʒ"
+    "transcription": "ʒ",
+    "reference": null
   },
   "з": {
     "cyrillic": "з",
     "latin": "z",
-    "transcription": "z"
+    "transcription": "z",
+    "reference": null
   },
   "и": {
     "cyrillic": "и",
     "latin": "i",
-    "transcription": "i"
+    "transcription": "i",
+    "reference": null
   },
   "й": {
     "cyrillic": "й",
     "latin": "y",
-    "transcription": "j"
+    "transcription": "j",
+    "reference": null
   },
   "к": {
     "cyrillic": "к",
@@ -75,126 +86,151 @@
   "л": {
     "cyrillic": "л",
     "latin": "l",
-    "transcription": "l"
+    "transcription": "l",
+    "reference": null
   },
   "м": {
     "cyrillic": "м",
     "latin": "m",
-    "transcription": "m"
+    "transcription": "m",
+    "reference": null
   },
   "н": {
     "cyrillic": "н",
     "latin": "n",
-    "transcription": "n"
+    "transcription": "n",
+    "reference": null
   },
   "ң": {
     "cyrillic": "ң",
     "latin": "ñ",
-    "transcription": "ŋ"
+    "transcription": "ŋ",
+    "reference": null
   },
   "о": {
     "cyrillic": "о",
     "latin": "o",
-    "transcription": "o"
+    "transcription": "o",
+    "reference": null
   },
   "ө": {
     "cyrillic": "ө",
     "latin": "ö",
-    "transcription": "ø"
+    "transcription": "ø",
+    "reference": null
   },
   "п": {
     "cyrillic": "п",
     "latin": "p",
-    "transcription": "p"
+    "transcription": "p",
+    "reference": null
   },
   "р": {
     "cyrillic": "р",
     "latin": "r",
-    "transcription": "r"
+    "transcription": "r",
+    "reference": null
   },
   "с": {
     "cyrillic": "с",
     "latin": "s",
-    "transcription": "s"
+    "transcription": "s",
+    "reference": null
   },
   "т": {
     "cyrillic": "т",
     "latin": "t",
-    "transcription": "t"
+    "transcription": "t",
+    "reference": null
   },
   "у": {
     "cyrillic": "у",
     "latin": "u",
-    "transcription": "u"
+    "transcription": "u",
+    "reference": null
   },
   "ү": {
     "cyrillic": "ү",
     "latin": "ü",
-    "transcription": "y"
+    "transcription": "y",
+    "reference": null
   },
   "ф": {
     "cyrillic": "ф",
     "latin": "f",
-    "transcription": "f"
+    "transcription": "f",
+    "reference": null
   },
   "х": {
     "cyrillic": "х",
     "latin": "h",
-    "transcription": "h"
+    "transcription": "h",
+    "reference": null
   },
   "һ": {
     "cyrillic": "һ",
     "latin": "h",
-    "transcription": "h"
+    "transcription": "h",
+    "reference": null
   },
   "ц": {
     "cyrillic": "ц",
     "latin": "ts",
-    "transcription": "ts"
+    "transcription": "ts",
+    "reference": null
   },
   "ч": {
     "cyrillic": "ч",
     "latin": "ç",
-    "transcription": "tʃ"
+    "transcription": "tʃ",
+    "reference": null
   },
   "ш": {
     "cyrillic": "ш",
     "latin": "ş",
-    "transcription": "ʃ"
+    "transcription": "ʃ",
+    "reference": null
   },
   "щ": {
     "cyrillic": "щ",
     "latin": "şç",
-    "transcription": "ʃː"
+    "transcription": "ʃː",
+    "reference": null
   },
   "ъ": {
     "cyrillic": "ъ",
     "latin": "",
-    "transcription": ""
+    "transcription": "",
+    "reference": null
   },
   "ы": {
     "cyrillic": "ы",
     "latin": "ı",
-    "transcription": "ɯ"
+    "transcription": "ɯ",
+    "reference": null
   },
   "ь": {
     "cyrillic": "ь",
     "latin": "",
-    "transcription": ""
+    "transcription": "",
+    "reference": null
   },
   "э": {
     "cyrillic": "э",
     "latin": "e",
-    "transcription": "e"
+    "transcription": "e",
+    "reference": null
   },
   "ю": {
     "cyrillic": "ю",
     "latin": "yu",
-    "transcription": "ju"
+    "transcription": "ju",
+    "reference": null
   },
   "я": {
     "cyrillic": "я",
     "latin": "ya",
-    "transcription": "ja"
+    "transcription": "ja",
+    "reference": null
   }
 }
